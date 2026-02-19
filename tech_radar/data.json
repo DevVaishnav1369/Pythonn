@@ -1,0 +1,23 @@
+{
+  "tools": [
+    "Supabase – Open-source Firebase alternative",
+    "LangChain – Build AI applications",
+    "Raycast – Productivity launcher for developers",
+    "Turso – Edge database built on SQLite",
+    "Railway – Deploy apps instantly"
+  ],
+  "jobs": [
+    "Backend Engineer – Remote – 10 LPA",
+    "Python Developer – Startup – Bengaluru",
+    "AI Engineer – Remote – 18 LPA",
+    "DevOps Intern – Remote",
+    "Django Developer – Hybrid – Mumbai"
+  ],
+  "trends": [
+    "AI Agents replacing SaaS",
+    "Edge computing growth",
+    "Rust adoption in backend",
+    "AI + Automation startups rising",
+    "Micro-SaaS business model"
+  ]
+}
