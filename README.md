@@ -7,3 +7,4 @@ now moving to advanced
  OOPs
  some edge cases
  
+ today i understand the about virtual environment. 
