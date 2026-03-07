@@ -9,3 +9,4 @@ now moving to advanced
  
  today i understand the about virtual environment. 
 still revision 
+  understand virtual environment and why we use 
