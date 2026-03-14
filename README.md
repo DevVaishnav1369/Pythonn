@@ -1,6 +1,6 @@
 ### Pythonn
 ''' In this i practice how to write clean code'''
- Basics clear
+    Basics clear
      • if-else 
      • loops
      • functions
@@ -15,8 +15,6 @@ now moving to advanced
   understand virtual environment and why we use.
   undrestanding some python module.
   
-  • django Rest framework 
-  pagination, filtering , authentication, Authorization , selenium, OpenCV, caching.
-
-  Black
+    • django Rest framework 
+        pagination, filtering , authentication, Authorization , selenium, OpenCV, caching , searching.
     
